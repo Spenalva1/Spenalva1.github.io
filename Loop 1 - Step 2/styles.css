@@ -84,7 +84,7 @@
 }
 
 .method.selected .check{
-    background-image: url("/img/check.svg");
+    background-image: url("img/check.svg");
     padding-bottom: 25px;
 }
 
